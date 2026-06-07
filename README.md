@@ -14,7 +14,7 @@ More will be added.
 
 Usage
 Personal Computer:
-1. Download the personal pc.py file and default selectstock.json and stock.json files and run. Place all files in the same folder.
+1. Download the personal pyscraper.py file and default selectstock.json and stock.json files and run. Place all files in the same folder.
 2. Replace webhookurl variable with your discord webhook URL
 3. Enter item URL (ex: https://coldcultureworldwide.com/products/curved-tee-eclipse  DO NOT ADD .js)
 4. Select size
