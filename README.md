@@ -5,7 +5,7 @@ uses the private javascipt endpoint by just adding ".js" to the end of a shopify
 then it filters through the data to reach the variants and read their availibility
 
 Limitations:
-Has not been tested on many shopify sites, may not work on all.
+Has not been tested on many shopify sites, may not (wont) work on all.
 Has been tested on:
 
 coldcultureworldwide.com
@@ -21,3 +21,9 @@ Personal Computer:
 5. Press ESC to cancel scan
 
 Server side file is only for servers, and not good to use on pc.
+
+
+# Note
+This was mainly a fun project for me, and unless you want to buy something from coldcultureworldwide.com, then it isnt that useful
+I built this to literally get one t shirt that was out of stock and kept getting bought out immediately.
+I am currently working on a larger project for Grailed, which will hopefully be a lot better.
